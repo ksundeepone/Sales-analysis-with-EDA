@@ -1,3 +1,3 @@
-# Stock-Market-real-time-data-analysis
+# YouTube-data-analysis
 
 tools used: AWS EC2, Kafka
